@@ -4,7 +4,7 @@ This microservice has only the purpose of installing wix application in user's s
 Once the authorization code is received it can be stored and used in other services and for subsequent tranasactions.
 
 # Demo
-
+![Install Wix App Demo](./instructions/demo.gif)
 
 
 # Instructions
