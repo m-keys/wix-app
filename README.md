@@ -26,4 +26,4 @@ Go to your [Wix App](https://dev.wix.com/dc3/my-apps/) OAuth section and copy yo
 yarn && yarn dev
 ```
 
-That's it! Now you can test intsalling the app in your site.
+That's it! Now you can test installing your wix app in any site.
